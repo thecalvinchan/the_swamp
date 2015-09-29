@@ -1,0 +1,16 @@
+{
+  "name": "theswamp",
+  "version": "0.0.0",
+  "authors": [
+    "Calvin <calvin.chan.h@gmail.com>"
+  ],
+  "description": "it's all ogre now",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "http://theswamp.space",
+  "private": true,
+  "dependencies": {
+    "marx": "~1.3.0"
+  }
+}
